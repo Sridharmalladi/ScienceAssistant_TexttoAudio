@@ -1,0 +1,7 @@
+streamlit
+whisper
+gtts
+pyaudio
+langchain
+langchain-ollama
+numpy
